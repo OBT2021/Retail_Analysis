@@ -30,3 +30,8 @@ The dashboard features **dynamic filters, interactive charts, and geospatial ana
 ┣ 📁 data/ # Sample dataset (CSV/XLSX)
 ┣ 📁 dashboards/ # Tableau workbook files (.twbx)
 ┣ 📜 README.md # Project documentation
+
+## 📈 Business Impact  
+🔹 **Optimized Budgeting** – Identifies cost-heavy categories and potential areas for savings.  
+🔹 **Improved Vendor Management** – Helps evaluate vendor performance and negotiate better contracts.  
+🔹 **Geographical Spend Analysis** – Supports better resource allocation across locations.  
