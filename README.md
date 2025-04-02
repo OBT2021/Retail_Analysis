@@ -16,10 +16,8 @@ This project leverages **Tableau** to analyze and visualize spending patterns ac
 ## 📊 Visualizations & Insights  
 The dashboard features **dynamic filters, interactive charts, and geospatial analysis** to help users drill down into specific data points.  
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Tool & Technology  
 - **Tableau** – Data visualization & dashboard creation  
-- **SQL / Excel** – Data preprocessing (if applicable)  
-- **Python (optional)** – Data cleaning & transformation  
 
 ## 🚀 How to Use the Dashboard  
 1. Open the **Tableau Workbook (.twbx)** file in Tableau.  
